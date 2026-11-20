@@ -1,0 +1,10 @@
+J^2 = 1: True, JD = DJ: True, J gamma = -gamma J: True
+gamma D = -D gamma: True, gamma commutes with the algebra: True
+order zero condition: True
+first order condition: True
+magic: True, noncommutative coefficients: True
+U unitary: True
+U commutes with D (x) 1: True, with gamma (x) 1: True
+U implements the coaction delta_j -> sum_i delta_i (x) u_ij on the first leg: True
+compatibility with J: flip of the legs plus adjoint of the coefficients fixes U: True
+done

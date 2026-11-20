@@ -1,0 +1,4 @@
+connected CKM: commutant of 1 x Y_uY_u^*, 1 x Y_dY_d^* in M_3 x M_3 has dimension 9 = 9c, so at most 3 orthogonal projections
+block CKM, c = 2: commutant of 1 x Y_uY_u^*, 1 x Y_dY_d^* in M_3 x M_3 has dimension 18 = 9c, so at most 6 orthogonal projections
+monomial CKM, c = 3: commutant of 1 x Y_uY_u^*, 1 x Y_dY_d^* in M_3 x M_3 has dimension 27 = 9c, so at most 9 orthogonal projections
+done

@@ -1,0 +1,17 @@
+S_3, |G| = 6: eigenvalues of E(L_Pi R_Pi) [0.25, 1.0] with multiplicities [4, 2]
+   reading n_beta = 1/sqrt(eigenvalue): [2, 1], multiplicity / n_beta^2 = number of irreducibles of that dimension: [1, 2]
+   E(L_Pi R_Pi) commutes with left and right multiplications, i.e. is a central multiplier: True
+   spectral action values d + 2/n_beta^2 on the blocks: [6.5, 8.0], against d + 2 = 8
+Q_8, |G| = 8: eigenvalues of E(L_Pi R_Pi) [0.25, 1.0] with multiplicities [4, 4]
+   reading n_beta = 1/sqrt(eigenvalue): [2, 1], multiplicity / n_beta^2 = number of irreducibles of that dimension: [1, 4]
+   E(L_Pi R_Pi) commutes with left and right multiplications, i.e. is a central multiplier: True
+   spectral action values d + 2/n_beta^2 on the blocks: [8.5, 10.0], against d + 2 = 10
+S_4, |G| = 24: eigenvalues of E(L_Pi R_Pi) [0.111111, 0.25, 1.0] with multiplicities [18, 4, 2]
+   reading n_beta = 1/sqrt(eigenvalue): [3, 2, 1], multiplicity / n_beta^2 = number of irreducibles of that dimension: [2, 1, 2]
+   E(L_Pi R_Pi) commutes with left and right multiplications, i.e. is a central multiplier: True
+   spectral action values d + 2/n_beta^2 on the blocks: [24.2222, 24.5, 26.0], against d + 2 = 26
+D_5, |G| = 10: eigenvalues of E(L_Pi R_Pi) [0.25, 1.0] with multiplicities [8, 2]
+   reading n_beta = 1/sqrt(eigenvalue): [2, 1], multiplicity / n_beta^2 = number of irreducibles of that dimension: [2, 2]
+   E(L_Pi R_Pi) commutes with left and right multiplications, i.e. is a central multiplier: True
+   spectral action values d + 2/n_beta^2 on the blocks: [10.5, 12.0], against d + 2 = 12
+done

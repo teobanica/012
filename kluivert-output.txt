@@ -1,0 +1,16 @@
+W(0, 0) = [[1, 0], [0, 1]]
+W(0, 1) = [[0, 1], [1, 0]]
+W(1, 0) = [[1, 0], [0, -1]]
+W(1, 1) = [[0, 1], [-1, 0]]
+W_g W_h = sigma(g,h) W_(g+h): True
+values of d: [-1, 1]
+[W_g,W_h] = sigma(g,h)(1-d(g,h)) W_(g+h): True
+untwisted bracket [e_g,e_h] = 2 e_(g+h) for distinct nonzero g,h: True
+untwisted bracket symmetric on nonzero labels, [e_h,e_g] = [e_g,e_h]: True
+eps-Jacobi identity, max defect over all 64 triples: 0.00e+00
+e_0 central: True
+ordered pairs of nonzero labels interacting: 6 of 9
+random x in SU_2, test 1: P^x magic True, noncommutativity 0.358
+random x in SU_2, test 2: P^x magic True, noncommutativity 0.293
+random x in SU_2, test 3: P^x magic True, noncommutativity 0.237
+done

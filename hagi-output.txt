@@ -1,0 +1,14 @@
+W_g W_h = sigma(g,h) W_(g+h): True
+d(g,h) = w^det(g,h) with det(g,h) = g_0 h_1 - g_1 h_0: True
+W_g orthonormal for <a,b> = tr(ab^*): True
+[W_g,W_h] = sigma(g,h)(1-d(g,h)) W_(g+h): True
+d is a commutation factor, d(g,h)d(h,g) = 1: True
+eps-antisymmetry [e_h,e_g] = -d(h,g)[e_g,e_h]: True
+eps-Jacobi identity, max defect over all triples: 5.06e-15
+e_0 is central: True
+ordered pairs of nonzero labels with nonzero bracket: 48 of 64
+normalization J_g = w^(0 g_0 g_1) W_g: structure constants in [(-1.5, -0.866), (-1.5, 0.866), (0.0, -1.7321), (0.0, 0.0), (0.0, 1.7321), (1.5, -0.866), (1.5, 0.866)]
+normalization J_g = w^(1 g_0 g_1) W_g: structure constants in [(-1.5, -0.866), (-1.5, 0.866), (0.0, -1.7321), (0.0, 0.0), (0.0, 1.7321), (1.5, -0.866), (1.5, 0.866)]
+normalization J_g = w^(2 g_0 g_1) W_g: structure constants in [(0.0, -1.7321), (0.0, 0.0), (0.0, 1.7321)]
+with k = 2: [J_g,J_h] = 2i sin(2 pi det(g,h)/3) J_(g+h) for all g,h: True
+done

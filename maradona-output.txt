@@ -1,0 +1,20 @@
+dimension of one generation: 32
+Tr_H of C (lambda) = 8
+Tr_H of C (conj lambda) = 4
+Tr_H of M_2 (min proj) = 4
+Tr_H of M_3 (min proj) = 4
+check: total = 32
+physical trace Tr_H/32: minimal projection weights [0.25, 0.125, 0.125, 0.125]
+   block C (lambda): m m^* = 4.0000 * id (scalar: True), n_i/t_i = 4.0000
+   block C (conj lambda): m m^* = 8.0000 * id (scalar: True), n_i/t_i = 8.0000
+   block M_2: m m^* = 16.0000 * id (scalar: True), n_i/t_i = 16.0000
+   block M_3: m m^* = 24.0000 * id (scalar: True), n_i/t_i = 24.0000
+canonical trace: minimal projection weights [0.0667, 0.0667, 0.1333, 0.2]
+   block C (lambda): m m^* = 15.0000 * id (scalar: True), n_i/t_i = 15.0000
+   block C (conj lambda): m m^* = 15.0000 * id (scalar: True), n_i/t_i = 15.0000
+   block M_2: m m^* = 15.0000 * id (scalar: True), n_i/t_i = 15.0000
+   block M_3: m m^* = 15.0000 * id (scalar: True), n_i/t_i = 15.0000
+Heisenberg group on one generation: central character 1 on 8 dims, w on 12 dims, w^2 on 12 dims
+hence, for one generation: 8 copies of trivial-center representations (the leptons), 4 copies of 3 (antiquarks) and 4 copies of 3bar (quarks)
+check of the Heisenberg relation ZX = w XZ for clock and shift: True
+done

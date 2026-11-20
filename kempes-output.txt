@@ -1,0 +1,4 @@
+random unitary 1: magic True; b intertwiner True; conj(b) intertwiner False
+   model noncommutative: True
+random unitary 2: magic True; b intertwiner True; conj(b) intertwiner False
+   model noncommutative: True

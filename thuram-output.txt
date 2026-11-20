@@ -1,0 +1,6 @@
+orthonormal basis of M_4(C): True
+nice error basis, U_a U_b proportional to some U_c: True
+induced label law is associative (a group F of order 16): True
+F nonabelian: True, |Z(F)| = 4
+Hopf image: classical group of order 64, and |F|^2/|Z(F)| = 64
+done

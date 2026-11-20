@@ -1,0 +1,6 @@
+number of lines: 12
+degrees: points on [4] lines, lines through [3] points
+T(v_a x v_c) = v_a + v_c + v_(-a-c) + delta_ac 1 on all 81 ordered pairs: True
+the line indicators obtained for a != c: 12 distinct, all of the 12 lines: True
+permutations of the 9 points mapping lines to lines: 432 (expect 432)
+done

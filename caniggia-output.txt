@@ -1,0 +1,9 @@
+n=2 round 1: dimension 14
+n=2 round 2: dimension 14
+n=2, with m^op=True: flip in algebra generated: True
+n=3 round 1: dimension 17
+n=3 round 2: dimension 23
+n=3 round 3: dimension 23
+n=3, with m^op=True: flip in algebra generated: True
+n=3 round 1: dimension 2
+n=3, with m^op=False: flip in algebra generated: False

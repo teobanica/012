@@ -1,0 +1,8 @@
+Re(b) = -1/18 (v_a,v_c -> 1) + C/6: True
+C = v_a + v_c + v_(-a-c) + delta_ac (1 - 3 v_a): True
+permutations of the 9 points preserving L: 432 (expect |F_3^2 x| GL_2(3)| = 9*48 = 432)
+random Weyl model: defect for b 3.01e-16, for L 1.193, for Re(b) 0.199
+orientation reversing affine permutation (v1,v2) -> (v1+1,2v2+2): defect for L 0.0e+00, for Re(b) 5.6e-17, for b 0.192
+dimensions of the irreducible representations of PU_3, smallest ones: [1, 8, 10, 27, 28, 35, 55, 64]
+so a coaction of G_3 on k <= 8 points, whose magic representation is 1 + (k-1), must be trivial
+done

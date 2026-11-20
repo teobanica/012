@@ -1,0 +1,4 @@
+H = Z_3: N = 3, |Gamma| = 9: V_ab V_cd rule defect 1.5e-15, Fourier expansion of P^x_rs defect 3.7e-16 (12 random entries)
+H = Z_4: N = 4, |Gamma| = 16: V_ab V_cd rule defect 1.1e-15, Fourier expansion of P^x_rs defect 1.5e-16 (12 random entries)
+H = Z_2 x Z_2: N = 4, |Gamma| = 16: V_ab V_cd rule defect 4.9e-16, Fourier expansion of P^x_rs defect 8.6e-17 (12 random entries)
+done

@@ -1,0 +1,17 @@
+N =  4: V(0) = 0, V'(0) = 0 = -2N(N-4) = 0 (numerical 0.000), min of V on (0,2]: 0.0000 at t = 0.001
+N =  5: V(0) = 0, V'(0) = -10 = -2N(N-4) = -10 (numerical -10.000), min of V on (0,2]: -0.4134 at t = 0.098
+N =  6: V(0) = 0, V'(0) = -24 = -2N(N-4) = -24 (numerical -24.000), min of V on (0,2]: -1.2995 at t = 0.136
+N =  7: V(0) = 0, V'(0) = -42 = -2N(N-4) = -42 (numerical -42.000), min of V on (0,2]: -2.5233 at t = 0.155
+N =  8: V(0) = 0, V'(0) = -64 = -2N(N-4) = -64 (numerical -64.000), min of V on (0,2]: -4.0587 at t = 0.166
+N =  9: V(0) = 0, V'(0) = -90 = -2N(N-4) = -90 (numerical -90.000), min of V on (0,2]: -5.8977 at t = 0.173
+N = 10: V(0) = 0, V'(0) = -120 = -2N(N-4) = -120 (numerical -119.999), min of V on (0,2]: -8.0370 at t = 0.178
+N = 11: V(0) = 0, V'(0) = -154 = -2N(N-4) = -154 (numerical -153.999), min of V on (0,2]: -10.4750 at t = 0.182
+N = 12: V(0) = 0, V'(0) = -192 = -2N(N-4) = -192 (numerical -191.999), min of V on (0,2]: -13.2108 at t = 0.185
+formal partition functions at A = 1, as N grows:
+N =   4: genus 0: 2.28029, genus 1: 1.137820, genus 2: 1.015137, genus 3: 1.001675
+N =   5: genus 0: 3.47047, genus 1: 1.137820, genus 2: 1.008479, genus 3: 1.000529
+N =   9: genus 0: 18.0467, genus 1: 1.137820, genus 2: 1.002115, genus 3: 1.000033
+N =  20: genus 0: 593.354, genus 1: 1.137820, genus 2: 1.000375, genus 3: 1.000001
+N =  50: genus 0: 158973, genus 1: 1.137820, genus 2: 1.000056, genus 3: 1.000000
+N = 100: genus 0: 3.19307e+07, genus 1: 1.137820, genus 2: 1.000014, genus 3: 1.000000
+done

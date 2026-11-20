@@ -1,0 +1,8 @@
+color unitary: sum_i v_ij v_ik^* = delta_jk up to 4.4e-16; entries noncommuting (commutator 0.192)
+finite geometry: D_F self-adjoint True, J D_F = D_F J True, J gamma = -gamma J True, D_F gamma = -gamma D_F True
+W unitary: True
+W K = K W: True
+W implements the coaction on all 15 matrix units of B_F: max deviation 4.4e-16
+W commutes with D_F x 1: True, with gamma_F x 1: True
+partial trace (Tr_H x id)(W (X x 1) W^*) = Tr(X) 1 for random X: max deviation 1.0e-14
+done

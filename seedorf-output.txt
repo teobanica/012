@@ -1,0 +1,7 @@
+point formula matches: True
+associative: True  unit = constant 1: True
+noncommutative: True
+permutations of 9 points preserving b: 216 (expect 216 = 9*24)
+Fix(r1^3) S_9^+: 1  SU_3 adjoint: 2
+permutations sending b to conj(b): 216  total preserving b up to conjugation: 432 (Aut of Delta(27) has order 432)
+permutations preserving Re(b): 432

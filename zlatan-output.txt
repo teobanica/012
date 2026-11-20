@@ -1,0 +1,16 @@
+two-point triple: first order defect 0.0e+00, JD = DJ True, J gamma = gamma J True, D gamma = -gamma D True, B = (1-2p)[D,p] True
+S_3: coefficientwise reality K U (xi x 1) = U (J xi x 1): True;  full commutation K U = U K: False
+   U (L_e x 1) U^* = L_Pi: True;  K L_Pi K^{-1} = R_Pi: True
+   two-point: nullity of the fluctuated operator 8 (d+2 = 8); partial kernel trace of the transformed one: eigenvalues [6.5, 8.0], multiplicities [4, 2]
+   torus zero modes: partial kernel trace eigenvalues [18.0, 24.0], multiplicities [4, 2], against 4d = 24 before transformation
+   heat cutoff s = 0.4: transformed minus original, eigenvalues [-0.16303331, 0.0], predicted [-0.16303331, 0.0]
+   heat cutoff s = 1.0: transformed minus original, eigenvalues [-0.5993646, 0.0], predicted [-0.5993646, 0.0]
+   dim of L(C(Q)) cap R(C(Q)) = 3 (number of conjugacy classes, i.e. dimension of the center)
+Q_8: coefficientwise reality K U (xi x 1) = U (J xi x 1): True;  full commutation K U = U K: False
+   U (L_e x 1) U^* = L_Pi: True;  K L_Pi K^{-1} = R_Pi: True
+   two-point: nullity of the fluctuated operator 10 (d+2 = 10); partial kernel trace of the transformed one: eigenvalues [8.5, 10.0], multiplicities [4, 4]
+   torus zero modes: partial kernel trace eigenvalues [26.0, 32.0], multiplicities [4, 4], against 4d = 32 before transformation
+   heat cutoff s = 0.4: transformed minus original, eigenvalues [-0.16303331, 0.0], predicted [-0.16303331, 0.0]
+   heat cutoff s = 1.0: transformed minus original, eigenvalues [-0.5993646, 0.0], predicted [-0.5993646, 0.0]
+   dim of L(C(Q)) cap R(C(Q)) = 5 (number of conjugacy classes, i.e. dimension of the center)
+done
